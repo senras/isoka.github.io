@@ -289,6 +289,19 @@ footer {
 	grid-template-columns: 400px repeat(3, 1fr);
 	gap: 2rem;
 }
+.technologies {
+	position: relative;
+	display: grid;
+	grid-template-columns: 400px repeat(3, 1fr);
+	gap: 2rem;
+	margin-top: 3rem;
+}
+
+.technologies i {
+	color: #fff;
+	font-size: 5rem;
+	margin-right: 0.3rem;
+}
 
 footer .column .logo {
 	max-width: 100px;
