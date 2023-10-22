@@ -386,3 +386,9 @@ footer .column > a:hover {
 		grid-template-columns: 1fr 150px;
 	}
 }
+
+center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
