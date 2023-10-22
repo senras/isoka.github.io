@@ -8,11 +8,6 @@
 	box-sizing: border-box;
 }
 
-#totoro-img {
-	color: rgb(255, 255, 255);
-	width: 100px;
-}
-
 img {
 	width: 100%;
 	display: flex;
@@ -403,5 +398,16 @@ footer .column > a:hover {
 center {
 	display: flex;
 	justify-content: center;
+	align-items: center;
+}
+
+#totoro-img {
+	width: 150px;
+	transform: rotate(5deg);
+}
+
+.evenly {
+	display: flex;
+	justify-content: space-between;
 	align-items: center;
 }
