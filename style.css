@@ -8,6 +8,11 @@
 	box-sizing: border-box;
 }
 
+#totoro-img {
+	color: rgb(255, 255, 255);
+	width: 100px;
+}
+
 img {
 	width: 100%;
 	display: flex;
