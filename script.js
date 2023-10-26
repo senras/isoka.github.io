@@ -17,5 +17,8 @@ link1.addEventListener('click', () => {
 
 link2.addEventListener('click', () => {
     // Scroll to the second element with "header" class
-    scrollToElement('.header', 1);
+    scrollToElement('.header', 2);
 });
+
+
+// REDO THIS PART SO THAT IT WORKS WITH LINK TO SECTION
